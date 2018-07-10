@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Circle">Image/Circle.png</file>
+        <file alias="Line">Image/Line.png</file>
+        <file alias="Polygon">Image/Polygon.png</file>
+        <file alias="Rectangle">Image/Rectangle.png</file>
+    </qresource>
+</RCC>
